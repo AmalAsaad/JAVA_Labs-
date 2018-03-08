@@ -1,0 +1,3 @@
+Average  = 50616.38
+Lowest  = 756
+Highest  = 756
